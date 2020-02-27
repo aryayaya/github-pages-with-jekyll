@@ -11,3 +11,4 @@ twitter_username: no ome
 github_username:  no one
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
